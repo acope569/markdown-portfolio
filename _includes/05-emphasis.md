@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My skills include __Python__ and __C++__
+Also my skills include _guitar_ and _bass_
